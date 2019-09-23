@@ -2,4 +2,4 @@
 | psychisch | physisch | 
 | ---------- | ------------ |
 | Depression | Kreuzbandriss |
-| Borderline | Fußfehlstellung |
+| Borderline | Fußfählstellung |
