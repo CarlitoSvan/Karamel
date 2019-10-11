@@ -1,5 +1,5 @@
 # Gemütszuxxxxxxxxxxxstand
 | psychisch | physisch | 
 | ---------- | ------------ |
-| Depression | Kreuzbandriss |
-| Borderline | Fußfählstellung |
+| schizophränie | Ohrwurm |
+| Hosenwahn | Baumparasit |
